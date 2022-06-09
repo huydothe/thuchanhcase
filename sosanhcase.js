@@ -1,5 +1,5 @@
 let a = +prompt('Input');
-switch(a>0) {
+switch(a) {
     case (true):
         alert(1);
         break;
